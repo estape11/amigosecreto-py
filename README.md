@@ -16,4 +16,4 @@ $ python3 amigosecreto-whatsapp.py
 - Configurar el sandbox con la URL que ngrok provee
 
 # Fuentes
-- Basado en el bot de WhatsApp básico de Twilio
+- Basado en el bot de WhatsApp básico de Twilio (https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio)
